@@ -1,0 +1,13 @@
+# Welcome
+
+I've been working in the financial tech industry for the past 13 years. However, the stuff you'll see here won't be finance related, but will be web related. The AI generation has allowed me to confidently take on new projects. At work, I've maintained databases and have developed, integrated on existing systems. Rarely do I start from the ground up. That's where this web project comes in--filling in the gap of my understanding and taking it further than what I do in my day job. This is a self-hosted website at my house using a Raspberry Pi 5 model. Linux, Apache, MariaDB. 
+
+A bit on my biases, I'm am integrated into the Google Ecosystem, so my expertise is there. I have a YouTube Premium subscription which gives me access to YouTube Music. I'm also subscribed to Gemini Advance which gives me access to 2 TB of storage for Google Photos and Google Drive. So, while most of the world is talking about ChatGPT, I'm talking about Gemini. I ask her when I have questions, want to learn something. I send thoughts for validation and to also be contested. I seek her guidance on what to do when I'm lost. 
+
+For this website, I have lots of ideas of what I want to bring in. So many projects in my head. A lot of what I do want to do here is provide services and tools.
+
+One of the things that I want to do here is blog. I used to think that the solution to clutter was to convert it to digital. But now I know it's possible to have too many documents. As scary as AI can be, it is what we need to move forward in information comprehension. We were approaching content saturation, and we need AI to take the abundance of information we all have and attempt to condense it down to a single response. I'm feeding AI with what I write, here and everywhere. I know that, I embrace it. I hope that some day I will be big enough to be more than just a few phrases in an AI response. AI aside, I am too trying to condense and refactor my notes. I am blogging because I have bits and pieces everywhere and I want to bring them together, tied under topics and bundled into one place. You have found my hub. All blog topics will be living blogs and will update as I pull in more pieces and get new information. At the same time, I will be compiling my blogs into NotebookLM to share. I'm calling it my Ghost. 
+
+I want to thank you for visiting. You are here reading something I wrote, you're someone that sees me. Welcome. 
+
+- Phi Dao
