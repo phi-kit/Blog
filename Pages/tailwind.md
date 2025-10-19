@@ -27,11 +27,12 @@ Different level of roundness from least to most.
 - rounded-xl
 - rounded-2xl
 - rounded-3xl
-- rounded-full
+- rounded-full: Set for my navigation header.
 
 ### Spacing
 
 If you have a div with containers inside, the space number will determine how much space you want between each container.
 
 - space-y-16
-- space-y-8
+- space-y-8: Set for the distance between my cards
+- space-y-4: Set for the distance between the items within my cards.
