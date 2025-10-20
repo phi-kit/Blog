@@ -36,3 +36,9 @@ If you have a div with containers inside, the space number will determine how mu
 - space-y-16
 - space-y-8: Set for the distance between my cards
 - space-y-4: Set for the distance between the items within my cards.
+
+### Text Color
+
+- text-white
+- text-indigo-700
+- text-gray-500
