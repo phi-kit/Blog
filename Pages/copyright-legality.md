@@ -8,13 +8,13 @@ The more I read about copyright, the more I see copyright infringement. People t
 
 However, there is a right way to use copyright and that usually falls under public domain and licensing. A person is free to declare their work as public domain immediately if they choose, or have it expire after their death. Either way that means you are free to use and re-invent. I recently realize that's why we have so many variations of biblical stories, stories of Wizard of Oz and Alice in Wonderland: They are in public domain. Just keep in mind that the variation gets protected too. Then there is licensing and it is how we have movies that references popular songs, a movie like Ready Player One which has popular intellectual property (IP) every couple of seconds, a game like Kingdom Hearts that that cross Final Fantasy and Disney, a clothing store called Hot Topic that sells t-shirts and merchandise based on IP, and a line of toys called Funko Pop that has similar likenesses to an IP. Companies spend a lot of money for rights to sell derivative work. For a person to shortcut and not acquire necessary licensing before selling a derivative work is unfair to those who do. 
 
-That's an introduction to what I really want to research for this article and that's the question of, "What's in the public domain?", and "What are some good examples of legal licensing", and "What are the gray areas?"
+That's an introduction to what I really want to research for this article and that's the question of, "What's in the public domain?", "What are examples of works based on public domain?", "What are some good examples of legal licensing", and "What are the gray areas?"
 
 ## Public Domain
 
 Remember it applies on only the original text or source material, doesn't mean that the derivative work is in public domain as well.
 
-- Alice in Wonderland
+- Lewis Carroll's "Alice in Wonderland" (1865)
 - Bible
 - The Great Gatsby
 - Wizard of Oz 
@@ -43,11 +43,53 @@ Mythologies
 - Greek
 - Norse
 
+## Public Domain Derivatives
+
+### Bible
+
+- The Chronicles of Narnia
+
+Games
+
+- Bayonetta
+- Castlevania
+- Darksiders
+- Devil May Cry
+- Diablo
+- Persona
+- Shin Megami Tensei
+
+TV Shows
+
+- Lucifer
+- Neon Genesis Evangelion
+- Supernatural
+- The Good Place
+
+### Lewis Carroll's "Alice in Wonderland" (1865)
+
+- Disney's "Alice in Wonderland" (1951)
+
+Tim Burton
+
+- Alice in Wonderland (2010)
+- Alice Through the Looking Glass (2016)
+
+EA
+
+- American McGee's Alice (2000)
+- Alice: Madness Returns (2011)
+
+### Wizard of Oz 
+
+- Wicked
+
 ## Licensing Examples
 
 - Hot Topic
 - Kraft's shaped Macaroni & Cheese
 - Loot Crate
+- Magic: The Gathering
 - Movie Theaters
 
 Toys
