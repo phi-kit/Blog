@@ -58,6 +58,8 @@ Set margins in one direction
 
 Different level of roundness from least to most.
 
+Rounded everywhere.
+
 - `rounded-sm`
 - `rounded`
 - `rounded-md`
@@ -66,6 +68,10 @@ Different level of roundness from least to most.
 - `rounded-2xl`
 - `rounded-3xl`
 - `rounded-full`: Set for my navigation header.
+
+Round just a section.
+
+- `rounded-t-{size}`
 
 ### Spacing
 
