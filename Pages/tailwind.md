@@ -12,9 +12,47 @@ Tailwind is CSS framework that I often see Gemini utilized when asked to generat
 
 Looks like there are many background options with the option to set the background to any hex code color.
 
-- bg-white
-- bg-gray-50
-- bg-[#497177]
+- `bg-white`
+- `bg-gray-50`
+- `bg-[#497177]`
+
+### Font Weight
+
+- `font-light`: font-weight: 300
+- `font-normal`: font-weight: 400
+- `font-medium`: font-weight: 500
+- `font-bold`: font-weight: 700
+- `font-black`: font-weight: 900
+
+### Images
+
+- `object-cover`
+- `object-top`: Position the image within its container so that the top of the image is aligned to the top of the container. Allowing for cropping of the bottom of the image.
+
+### List
+
+- `list-disc`
+- `list-decimal`
+- `pl-5`: Determine the left padding
+- `marker:text-blue-800`: Set's color of the list marker. Allowing it to be separate from the text color. 
+
+### Margin
+
+Set margins around your container. Size is in a range from 1 to 8. 
+
+Set margins in all directions
+
+- `m-{size}`
+
+Set margins in two directions
+
+- `my-{size}`: Top and bottom
+- `mx-{size}`: Left and right
+
+Set margins in one direction
+
+- `mt-{size}`: Top
+- `mb-{size}`: Bottom
 
 ### Rounded Corners
 
@@ -47,9 +85,9 @@ Tailwind has a color shading system. The steps are in increments of 100, except 
 - `text-indigo-700`
 - `text-gray-500`
 
-### List
+### Text Size
 
-- `list-disc`
-- `list-decimal`
-- `pl-5`: Determine the left padding
-- `marker:text-blue-800`: Set's color of the list marker. Allowing it to be separate from the text color. 
+- `text-sm`: 14px
+- `text-base`: 16px (The default browser font size)
+- `text-lg`: 18px
+- `text-xl`: 20px
