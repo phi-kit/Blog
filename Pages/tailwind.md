@@ -72,6 +72,7 @@ Rounded everywhere.
 Round just a section.
 
 - `rounded-t-{size}`
+- `rounded-b-{size}`
 
 ### Spacing
 
